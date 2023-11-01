@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690237758183",
+    "project_id": "chatappkoh10",
+    "storage_bucket": "chatappkoh10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690237758183:android:49ebc92a6d589e801da042",
+        "android_client_info": {
+          "package_name": "ru.yandex.practicum.chatappkoh10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZtF4m0TBNDjiDj9Yr2Z2LyoAgAhCtB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

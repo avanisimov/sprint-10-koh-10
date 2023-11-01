@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="new_message_fill">#FFFFFF</color>
+    <color name="new_message_stroke">#9196A4</color>
+
+    <color name="chat_message_fill_me">#E1F5DE</color>
+    <color name="chat_message_fill_other">#FFFFFF</color>
+
+    <color name="chat_message_text">#11142D</color>
+    <color name="chat_message_date">#67C4B2</color>
+</resources>
